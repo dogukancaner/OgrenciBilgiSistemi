@@ -1,0 +1,16 @@
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\bin\Debug\Öğrenci Bilgilendirme Sistemi.exe.config
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\bin\Debug\Öğrenci Bilgilendirme Sistemi.exe
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\bin\Debug\Öğrenci Bilgilendirme Sistemi.pdb
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci Bilgilendirme Sistemi.csprojAssemblyReference.cache
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci_Bilgilendirme_Sistemi.Form1.resources
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci_Bilgilendirme_Sistemi.Properties.Resources.resources
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci Bilgilendirme Sistemi.csproj.GenerateResource.cache
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci Bilgilendirme Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci Bilgilendirme Sistemi.exe
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci Bilgilendirme Sistemi.pdb
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci_Bilgilendirme_Sistemi.Form2.resources
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci_Bilgilendirme_Sistemi.Form3.resources
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci_Bilgilendirme_Sistemi.Form4.resources
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci_Bilgilendirme_Sistemi.Form5.resources
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci_Bilgilendirme_Sistemi.Form6.resources
+C:\Users\doguk\OneDrive\Masaüstü\Çalışmalarım\Öğrenci Bilgilendirme Sistemi\Öğrenci Bilgilendirme Sistemi\obj\Debug\Öğrenci_Bilgilendirme_Sistemi.Form7.resources
